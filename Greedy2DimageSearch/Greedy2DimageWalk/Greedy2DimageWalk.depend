@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1537135763 source:/home/user/Greedy2DimageWalk/main.cpp
+	<iostream>
+	<fstream>
+	"MapDataDrawer.cpp"
+
+1537033567 /home/user/Greedy2DimageWalk/MapDraw.cpp
+	<iostream>
+	<fstream>
+
+1537137002 /home/user/Greedy2DimageWalk/MapDataDrawer.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<Bridges.h>
+	"Color.h"
+	"ColorGrid.h"
+
+1534900529 /home/user/bridges/Bridges.h
+	<iostream>
+	<algorithm>
+	"DataStructure.h"
+	"ServerComm.h"
+
+1534900529 /home/user/bridges/DataStructure.h
+	<string>
+
+1534900529 /home/user/bridges/ServerComm.h
+	<string>
+	<vector>
+	<curl/curl.h>
+	"./data_src/EarthquakeUSGS.h"
+	"./data_src/Game.h"
+	"./data_src/Shakespeare.h"
+	"./data_src/GutenbergBook.h"
+	"./data_src/CancerIncidence.h"
+	"./data_src/ActorMovieIMDB.h"
+	"./data_src/Song.h"
+
+1534900529 /home/user/bridges/data_src/EarthquakeUSGS.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Game.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Shakespeare.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/GutenbergBook.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/CancerIncidence.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/ActorMovieIMDB.h
+	<string>
+
+1534900529 /home/user/bridges/data_src/Song.h
+
+1534900529 /home/user/bridges/Color.h
+	<iostream>
+	<array>
+	<regex>
+	<unordered_map>
+	<cmath>
+	<sstream>
+	<iomanip>
+	"DataStructure.h"
+
+1534900529 /home/user/bridges/ColorGrid.h
+	<string>
+	"Grid.h"
+	"Color.h"
+	"base64.h"
+
+1534900529 /home/user/bridges/Grid.h
+	"DataStructure.h"
+	<vector>
+	"base64.h"
+
+1534900529 /home/user/bridges/base64.h
+	<iostream>
+	<string>
+	<vector>
+
